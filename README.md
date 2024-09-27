@@ -12,5 +12,4 @@ We are pleased to inform you that the HMSTR tokens from the recent airdrop have 
 
 ```SQL
 SELECT*FROM TABLE 1
-WHERE CONDITION = TRUE
-```
+WHERE CONDITION = TRU
